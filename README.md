@@ -1,6 +1,6 @@
 # ProjetoPOOMaromo
 
-Este é um trabalho como forma avaliativa do FATEC-Mogi Mirim do curso de análise e desenvolvimento de sistemas. 
+Este é um trabalho como forma avaliativa do FATEC-Mogi Mirim do curso de análise e desenvolvimento de sistemas, matéria de Programação Orientada à Objetos. 
 
 ## :black_nib: Autores
 
